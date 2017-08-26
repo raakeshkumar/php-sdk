@@ -1,5 +1,5 @@
 {
-    "name": "DIDForSale/sdk",
+    "name": "didforsale/sdk",
     "description": "A PHP wrapper for Didforsale's API",
     "type": "library",
     "license": "MIT",
